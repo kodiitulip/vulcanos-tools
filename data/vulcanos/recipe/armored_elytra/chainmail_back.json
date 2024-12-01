@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:smithing_transform",
+	"base": "minecraft:elytra",
+	"addition": "minecraft:chainmail_chestplate",
+	"result": {
+		"count": 1,
+		"id": "minecraft:chainmail_chestplate",
+		"components": {
+			"minecraft:glider": {},
+			"minecraft:equippable": {
+				"slot": "chest",
+				"asset_id": "vulcanos:chainmail/wings"
+			}
+		}
+	},
+	"template": "minecraft:phantom_membrane"
+}

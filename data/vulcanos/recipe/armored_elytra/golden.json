@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:smithing_transform",
+	"addition": "minecraft:elytra",
+	"base": "minecraft:golden_chestplate",
+	"result": {
+		"count": 1,
+		"id": "minecraft:golden_chestplate",
+		"components": {
+			"minecraft:glider": {},
+			"minecraft:equippable": {
+				"slot": "chest",
+				"asset_id": "vulcanos:gold/wings"
+			}
+		}
+	},
+	"template": "minecraft:phantom_membrane"
+}
