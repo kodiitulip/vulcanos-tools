@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"wings": [
+			{
+				"texture": "vulcanos:trans",
+				"use_player_texture": false
+			}
+		]
+	}
+}

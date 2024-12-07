@@ -1,0 +1,20 @@
+{
+	"layers": {
+		"humanoid": [
+			{
+				"texture": "minecraft:chainmail"
+			}
+		],
+		"humanoid_leggings": [
+			{
+				"texture": "minecraft:chainmail"
+			}
+		],
+		"wings": [
+			{
+				"texture": "vulcanos:trans",
+				"use_player_texture": false
+			}
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"wings": [
+			{
+				"texture": "vulcanos:enby",
+				"use_player_texture": false
+			}
+		]
+	}
+}

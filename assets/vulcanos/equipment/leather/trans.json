@@ -32,7 +32,7 @@
 		],
 		"wings": [
 			{
-				"texture": "vulcanos:enby",
+				"texture": "vulcanos:trans",
 				"use_player_texture": false
 			}
 		]
